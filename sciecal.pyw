@@ -6,7 +6,7 @@ September 16, 2017
 import pygame
 import sys
 import os
-from math import factorial, pi, sqrt, sin, cos, tan, sinh, cosh, tanh, degrees, radians, asin, atan, acos, asinh, acosh, atanh, log, log10, fmod, exp
+from math import *
 
 
 def load_png(name):
